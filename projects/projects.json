@@ -12,7 +12,7 @@
   {
     "name": "Car Damage Detection",
     "desc": "Car Damage Prediction is a deep learning-based web application that classifies the type of damage in a car image.",
-    "image": "sppuprepandroid",
+    "image": "car_Damage",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -59,6 +59,26 @@
     "links": {
       "view": "https://findmystayyy.onrender.com/listings",
       "code": "https://github.com/Bhanuteja072/FindMyStayy"
+    }
+  },
+  {
+    "name": "AI Blog Generator",
+    "desc": "AI-powered platform that generates SEO-friendly blog titles and long-form content with modular, stateful workflows.",
+    "image": "Blog",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhanuteja072/BLOG_GENERATOR"
+    }
+  },
+  {
+    "name": "Agentic Chatbot",
+    "desc": "Streamlit app orchestrating multiple AI workflows with tool-augmented search, news summarization, and RAG pipelines.",
+    "image": "Agentic",
+    "category": "ai",
+    "links": {
+      "view": "https://agentic-bot.streamlit.app/",
+      "code": "https://github.com/Bhanuteja072/Agentic-Chatbot"
     }
   }
 
